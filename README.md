@@ -22,3 +22,4 @@
   
 </div>
 
+![snake gif](https://github.com/victoriavllso/victoriavllso/blob/output/github-contribution-grid-snake.svg)
