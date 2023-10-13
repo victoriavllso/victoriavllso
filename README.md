@@ -1,10 +1,11 @@
-### Hi there 👋
 
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+!+I'm+Victória+Rodrigues;Welcome+to+my+profile+^-^&color=ffc0cb&center=true)](https://git.io/typing-svg)
 
+</div> 
 
-
-
+##
 
 <div align="center">
   <a href="https://github.com/victoriavllso">
@@ -12,8 +13,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriavllso&layout=compact&langs_count=168&theme=dracula"/>
   
 </div> 
+ <br>
 
-##
 
 <div align="center">
 
@@ -22,4 +23,9 @@
   
 </div>
 
-![snake gif](https://github.com/victoriavllso/victoriavllso/blob/output/github-contribution-grid-snake.svg)
+### Currently studying:
+
+<div> 
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div> 
