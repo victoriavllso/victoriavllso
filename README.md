@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+!+I'm+Victória+Rodrigues;Welcome+to+my+profile+^-^&color=ffc0cb&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+!+I'm+Victória+Rodrigues;Welcome+to+my+profile+^-^&color=ff007f&center=true)](https://git.io/typing-svg)
 
 </div> 
 
