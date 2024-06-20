@@ -18,8 +18,11 @@
 
 <div >
 
-  <a href = "mailto:victoria.rvv@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/vict%C3%B3ria-rodrigues-veloso-3bb3a8200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+
+  <a href = "mailto:victoria.rvv@outlook.com"><img src="https://img.shields.io/badge/Outlook-5C0BF0?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vict%C3%B3ria-rodrigues-veloso-3bb3a8200/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-5C0BF0?style=for-the-badge&logo=linkedin&logoColor=FFF" target="_blank"></a> 
   
 </div>
 
