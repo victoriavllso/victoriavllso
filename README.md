@@ -21,13 +21,11 @@
   </div>
 
   <!-- GIF -->
-  <div style="margin-left: 150px;">
-    <img src="assets\hello.gif" alt="GIF" width="150" height="150">
+  <div style="margin-left: 1000px;">
+    <img src="assets\hello.gif" alt="GIF" width="150" height="150" align ="right">
   </div>
 
 </div>
-
----
 
 <br>
 <br>
