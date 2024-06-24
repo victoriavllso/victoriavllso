@@ -32,15 +32,11 @@
 <br>
 <br>
 <br>
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriavllso&layout=compact&langs_count=168&theme=jolly"/>
-  </div>
-  <div>
-    <a href="https://github.com/victoriavllso">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoriavllso&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-    </a>
-  </div>
+<div align="center">
+  <a href="https://github.com/victoriavllso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoriavllso&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriavllso&layout=compact&langs_count=168&theme=jolly"/>
+
 </div>
 
 <br>
