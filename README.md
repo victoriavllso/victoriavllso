@@ -21,7 +21,7 @@
   </div>
 
   <!-- GIF -->
-  <div style="margin-left: 1000px; margin-bottom: 1000px;">
+  <div style="margin-left: 1000px; margin-bottom: 20px;">
     <img src="assets\hello.gif" alt="GIF" width="150" height="150" align ="right">
   </div>
 
