@@ -1,5 +1,5 @@
 <div align="center">
-<!-- ========================= div da apresentação ========================= -->
+<!-- ========================= apresentação ========================= -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+!+I'm+Victória+Rodrigues;Welcome+to+my+profile+^-^&color=A020F0&center=true)](https://git.io/typing-svg)
 
@@ -7,22 +7,20 @@
 
 ##
 <br>
+    
+  <!-- GIF -->
+<img src="assets\hello.gif" alt="GIF" width="150" height="150" align ="right">
 
 
 
 <div style="display: flex; align-items: center;">
 
-  <!-- Text content -->
+  <!-- Texto -->
 <div>
 🎓 - Computer Science Student at <a href="https://ufsc.br/" target="_blank">Universidade Federal de Santa Catarina (UFSC)</a><br><br>
 💡 - Enthusiastic about developing new projects <br> <br>
 📂  - In my repositories, you'll find a glimpse of what I've been working on during my learning journey.
-  <!-- GIF -->
-    <img src="assets\hello.gif" alt="GIF" width="150" height="150" align ="right">
   </div>
-
-
-
 
 </div>
 
@@ -31,7 +29,7 @@
 <br>
 <br>
 <div align="center">
-<!-- ========================= div do stats ========================= -->
+<!-- ========================= stats ========================= -->
   <a href="https://github.com/victoriavllso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoriavllso&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriavllso&layout=compact&langs_count=168&theme=jolly"/>
@@ -39,10 +37,10 @@
 </div>
 
 <br>
-<!-- ========================= div contatos ========================= -->
+<!-- =========================  contatos ========================= -->
 
 
-## 📞 Contact 
+## 📞 Contact with me
 
 <br>
 <div style="display: flex; align-items: center; gap: 20px;">
