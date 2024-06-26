@@ -9,7 +9,7 @@
 <br>
     
   <!-- GIF -->
-<img src="assets\hello.gif" alt="GIF" width="150" height="150" align ="right">
+<img src="assets\hello.gif" alt="GIF" width="130" height="130" align ="right">
 
 
 
