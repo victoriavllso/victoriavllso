@@ -19,8 +19,7 @@
 <div>
 🎓 - Computer Science Student at <a href="https://ufsc.br/" target="_blank">Universidade Federal de Santa Catarina (UFSC)</a><br><br>
 💡 - Enthusiastic about developing new projects <br> <br>
-📂  - In my repositories, you'll find a glimpse of what I've been working on during my learning journey.
-  </div>
+📂 - In my repositories, you can explore what I've been working on during my learning journey.  </div>
 
 </div>
 
