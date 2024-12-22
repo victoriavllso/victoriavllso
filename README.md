@@ -17,8 +17,9 @@
 
   <!-- Texto -->
 <div>
-🎓 - Computer Science Student at <a href="https://ufsc.br/" target="_blank">Universidade Federal de Santa Catarina (UFSC)</a><br><br>
-💡 - Enthusiastic about developing new projects <br> <br>
+🎓 - Computer Science Student at <a href="https://ufsc.br/" target="_blank">Universidade Federal de Santa Catarina (UFSC).</a><br><br>
+🔭 - I'm currently Quality Assurance on  <a href="https://portal.bridge.ufsc.br/" target="_blank">Laboratório Bridge. </a> <br><br>
+💡 - Enthusiastic about developing new projects. <br> <br>
 📂 - In my repositories, you can explore what I've been working on during my learning journey.  </div>
 
 </div>
