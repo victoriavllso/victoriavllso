@@ -48,10 +48,3 @@
   <a href="https://www.linkedin.com/in/vict%C3%B3ria-rodrigues-veloso-3bb3a8200/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-FF6EC7?style=for-the-badge&logo=linkedin&logoColor=FFF" target="_blank"></a> 
 </div>
 
-
-## 📚 Currently studying
-<!-- ========================= div estudos atuais ========================= -->
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="50" />
-</div>
