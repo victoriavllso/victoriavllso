@@ -18,8 +18,19 @@
   <!-- Texto -->
 <div>
 🎓 - Computer Science Student at <a href="https://ufsc.br/" target="_blank">Universidade Federal de Santa Catarina (UFSC).</a><br><br>
-🔭 - I'm currently Quality Assurance on  <a href="https://portal.bridge.ufsc.br/" target="_blank">Laboratório Bridge. </a> <br><br>
-💡 - Enthusiastic about developing new projects. <br> <br>
+🔭 - Currently working as a Quality Assurance analyst at the <a href="https://portal.bridge.ufsc.br/" target="_blank">Laboratório Bridge</a>, on the e-SUS APS project.<br><br>
+
+
+<details>
+<summary> About e-SUS APS</summary>
+
+>e-SUS APS is an initiative from Brazil's Ministry of Health to restructure Primary Health Care (PHC) through digital transformation and better information management. It includes the e-SUS APS system and SISAB, aiming to improve patient registration, monitoring, and overall care management.
+
+To learn more, visit the Bridge lab’s [website](https://portal.bridge.ufsc.br/portfolio-esus-aps/).
+</details>
+<br>
+
+💡 - Passionate about developing new projects. <br> <br>
 📂 - In my repositories, you can explore what I've been working on during my learning journey.  </div>
 
 </div>
