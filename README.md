@@ -18,7 +18,7 @@
   <!-- Texto -->
 <div>
 🎓 - Computer Science Student at <a href="https://ufsc.br/" target="_blank">Universidade Federal de Santa Catarina (UFSC).</a><br><br>
-🔭 - Currently working as a Quality Assurance analyst at the <a href="https://portal.bridge.ufsc.br/" target="_blank">Laboratório Bridge</a>, on the e-SUS APS project.<br><br>
+🔭 - Currently working as a full stack developer at the <a href="https://portal.bridge.ufsc.br/" target="_blank">Laboratório Bridge</a>, on the e-SUS APS project.<br><br>
 
 
 <details>
